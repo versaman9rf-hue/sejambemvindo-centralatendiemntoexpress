@@ -1,0 +1,22 @@
+SITE INSTITUCIONAL — 69.145.967 Charles Seibel
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: página Sobre
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- assets/style.css: estilos personalizados
+- assets/: imagens fornecidas e favicon
+
+Como publicar:
+1. Extraia todos os arquivos mantendo a estrutura de pastas.
+2. Envie a pasta inteira para a hospedagem (por exemplo, public_html).
+3. Defina index.html como página inicial.
+4. Teste os links, telefone, WhatsApp, e-mail e imagens depois da publicação.
+5. Substitua imagens ilustrativas se elas não representarem trabalhos próprios.
+
+Observações:
+- O site usa Bootstrap 5.3.3 via CDN e fontes do Google Fonts; é necessária conexão à internet para carregar esses recursos.
+- Os textos legais são modelos iniciais e devem ser revisados para corresponder às práticas reais da empresa.
+- Se instalar Google Analytics, Google Ads tags, formulários ou cookies não essenciais, atualize a Política de Privacidade e configure consentimento quando necessário.
+- Confirme todos os dados cadastrais antes de publicar. A data de abertura fornecida deve ser validada.
